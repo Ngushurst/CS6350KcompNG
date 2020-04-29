@@ -1,0 +1,3 @@
+[WEKA](http://https://www.cs.waikato.ac.nz/ml/weka/ "WEKA") was used to obtain the training and testing results in this repository. Another note is that it uses the ".arff" file format,  which is a ".csv", but with extra information in a header.
+
+I used C# to write a few short methods to alter files to the formats I need them to be in (such as WEKAs output to Kaggles expected input). Furthermore, I also wrote a method that takes in the training data and removes examples until the number of instances of each label are balanced. The training sets are laid out in the file TrainsetComparison.png.

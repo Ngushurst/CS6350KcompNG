@@ -1,0 +1,7 @@
+C:\Users\ngush\source\repos\PrintToLocalFile\PrintToLocalFile\bin\Debug\PrintToLocalFile.exe.config
+C:\Users\ngush\source\repos\PrintToLocalFile\PrintToLocalFile\bin\Debug\PrintToLocalFile.exe
+C:\Users\ngush\source\repos\PrintToLocalFile\PrintToLocalFile\bin\Debug\PrintToLocalFile.pdb
+C:\Users\ngush\source\repos\PrintToLocalFile\PrintToLocalFile\obj\Debug\PrintToLocalFile.csprojAssemblyReference.cache
+C:\Users\ngush\source\repos\PrintToLocalFile\PrintToLocalFile\obj\Debug\PrintToLocalFile.csproj.CoreCompileInputs.cache
+C:\Users\ngush\source\repos\PrintToLocalFile\PrintToLocalFile\obj\Debug\PrintToLocalFile.exe
+C:\Users\ngush\source\repos\PrintToLocalFile\PrintToLocalFile\obj\Debug\PrintToLocalFile.pdb
